@@ -24,8 +24,15 @@ Ingeniero en Software con un sólido historial en la creación de soluciones esc
 * **Herramientas y Tecnologías:** Docker, Serverless (Lambdas, API Gateway), CI/CD Pipelines, Git.
 
 ---
+<body>
+  <p align="center">
+ <img src="https://github-readme-stats.vercel.app/api?username=Andres-Julian-7&show_icons=true" alt="Andres707" />
+ </p>
+</body>
+---
 
 ### Contacto
 
 * **LinkedIn:** [linkedin.com/in/andres-julian-garcia-pérez](https://www.linkedin.com/in/andres-julian-garcia-p%C3%A9rez-8283b71a7)
-* **GitHub:** [github.com/andres707](https://github.com/andres707)
+* **GitHub:** [github.com/Andres-Julian-7](https://github.com/Andres-Julian-7)
+* **GitHub Universitario:** [github.com/andres707](https://github.com/andres707)
